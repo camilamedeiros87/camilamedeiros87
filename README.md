@@ -4,6 +4,7 @@ Desenvolvedora Front-End em início de carreira, apaixonada por tecnologia e em 
 Tenho foco em criar interfaces modernas, responsivas e funcionais.
 
 🎓 Formação: Bolsa Futuro Digital (Front-End) e Cursando 1 período em Análise de Sistemas pela Uninassau - PE
+
 💼 Em busca da primeira oportunidade na área de tecnologia
 
 ---
